@@ -7,7 +7,7 @@ window’s size is between 320px and 7678px */
 @media screen and (min-width: 768px) and (max-width: 1024px){
 /* All the CSS styles added here will be applied if the browser
 window’s size is between 768px and 1024px */
-}
+    
 header{
     background: black;
 }
